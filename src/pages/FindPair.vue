@@ -54,7 +54,13 @@
           'lock',
           'pan_tool',
           'room',
-          'settings_voice'
+          'settings_voice',
+          'delete',
+          'explore',
+          'language',
+          'settings',
+          'play_circle_outline',
+          'call'
         ],
         previous_card: -1,
         cards: []
