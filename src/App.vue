@@ -63,8 +63,8 @@ export default {
         },
         {
           icon: 'bubble_chart',
-          title: 'Other game',
-          url: 'other-game'
+          title: 'Battle Sea',
+          url: 'battle-sea'
         }
       ],
       title: 'Games'

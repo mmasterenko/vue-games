@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import FindPair from '@/pages/FindPair'
-import OtherGame from '@/pages/OtherGame'
+import BattleSea from '@/pages/BattleSea'
 
 Vue.use(Router)
 
@@ -17,9 +17,9 @@ export default new Router({
       component: FindPair
     },
     {
-      path: '/other-game',
-      name: 'OtherGame',
-      component: OtherGame
+      path: '/battle-sea',
+      name: 'BattleSea',
+      component: BattleSea
     }
   ],
   mode: 'history'
